@@ -29,7 +29,7 @@ Welcome to the GitHub repository for creating a bootable USB drive, originally m
 3.1. **Prepare an Unattended Windows ISO**
 
 3.2  ~~Use the provided `autounattend.xml` file to create a custom Windows unattended installation ISO. (Link will be provided here soon)~~
-3.2  [Windows.iso]([https://raw.githubusercontent.com/TheTechTrailer/BootableUSB/main/TechTrailer.iso](https://drive.google.com/drive/folders/1YpXacUijN4KrSnng_Fzw2qPI0MYfmBB6?usp=sharing))
+3.2  Download the other required ISO files from [Windows.iso](https://drive.google.com/drive/folders/1YpXacUijN4KrSnng_Fzw2qPI0MYfmBB6?usp=sharing))
 3.3  Copy your custom Windows unattended ISO to the Ventoy USB drive.
 
 ### Step 4: Boot and Follow the On-Screen Guide
