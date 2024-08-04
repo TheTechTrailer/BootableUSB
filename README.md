@@ -36,7 +36,9 @@ Welcome to the GitHub repository for creating a bootable USB drive, originally m
 
 4.1. **Boot from the USB Drive**
 
-4.2  Insert the USB drive into the computer you wish to repair or install Windows on. Boot from the USB drive and follow the on-screen guide provided by Ventoy and the TechTrailer ISO.
+4.2  Insert the USB drive into the computer you wish to repair or install Windows on. Boot from the USB drive and follow the on-screen guide provided by Ventoy and first select the TechTrailer ISO. Once that has completed it's steps, one of which will copy the hardware report to the USB drive and then erase all 'fixed' drives (HHD/SSD)
+
+4.3 Now reboot, and select the automated Windows Install.
 
 ## Additional Resources
 
